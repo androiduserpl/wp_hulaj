@@ -1,0 +1,22 @@
+{
+  "name": "wp_hulaj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.sass style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androiduserpl/wp_hulaj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/androiduserpl/wp_hulaj/issues"
+  },
+  "homepage": "https://github.com/androiduserpl/wp_hulaj#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
