@@ -17,5 +17,5 @@
 	<?php bloginfo('description'); ?>
 </header>
 
-<div class="content">  // <!--ten tag zamkniemy w footer.php-->
-		<div id="content" class="site-content"> // ten tag zamkniemy w index.php
+<div class="content">  <!--ten tag zamkniemy w footer.php-->
+		<div id="content" class="site-content">  <!--ten tag zamkniemy w index.php-->
